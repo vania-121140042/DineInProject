@@ -1,0 +1,24 @@
+[
+    {
+        "title" : "Sandwich Chicken Teriyaki Sauce Cheeese",
+        "price" : 15000,
+        "image" : "/src/assets/chickensandwich.jpg"
+    },
+    {   
+        "title" : "Classic Caesar Salad With Mayonnaise",
+        "price" : 15000,
+        "image" : "/src/assets/chickensandwich.jpg"
+    },
+    {   
+        "title" : "Double Chocolate Brownie with ice cream",
+        "price" : 15000,
+        "image" : "/src/assets/chickensandwich.jpg"
+        
+    },
+    {   
+        "title" : "Grilled Salmon Fillet Garlic Sauce",
+        "price" : 15000,
+        "image" : "/src/assets/chickensandwich.jpg"
+        
+    }
+]
